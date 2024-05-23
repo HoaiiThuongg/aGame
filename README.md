@@ -3,11 +3,11 @@
 Đây là một game đầu tiên của mình
 ## Mục lục
 
-1. [Cài đặt](Cài-đặt)
-2. [Demo](demo)
-3. [Nguồn tham khảo](nguồn-tham-khảo)
-4. [Ý tưởng](idea)
-5. [Liên hệ](Liên-hệ)
+1. [Cài đặt](#cài-đặt)
+2. [Demo](#demo)
+3. [Nguồn tham khảo](#nguồn-tham-khảo)
+4. [Ý tưởng](#ý-tưởng)
+5. [Liên hệ](#liên-hệ)
 
 ## Cài đặt
 
@@ -39,38 +39,37 @@ B6: chơi
 ![Demo](anhDemo/Menu.png)
 
 ### GameState
-![Demo](anhDemo/Space.png)
 dùng các nút mũi tên để di chuyển và space để bắn!
-
+![Demo](anhDemo/Space.png)
+dùng các nút mũi tên để di chuyển
 ![Demo](anhDemo/Dino.png)
 dùng các nút mũi tên để di chuyển
-
 ![Demo](anhDemo/Snake.png)
-dùng các nút mũi tên để di chuyển
-
-![Demo](anhDemo/Boss.png)
 dùng các nút mũi tên để di chuyển và nút 1,2 để xuất chiêu
+![Demo](anhDemo/Boss.png)
 
 ### Các chức năng khác
+state bạn sẽ thấy nhiều nhất nếu chơi dở
 ![Demo](anhDemo/GameOver.png)
-state bạn sẽ thấy nhiều nhất
-![Demo](anhDemo/HuongDan.png)
 khỏi cần xem hướng dẫn vì mình hướng dẫn ở read me rồi
-![Demo](anhDemo/DieuTra.png)
+![Demo](anhDemo/HuongDan.png)
 cốt chuyện chính, hơi xàm á, mình bịa để game hợp lý hơn
-![Demo](anhDemo/Music.png)
+![Demo](anhDemo/DieuTra.png)
 chọn nhạc
-![Demo](anhDemo/Shop.png)
+![Demo](anhDemo/Music.png)
 shopping
+![Demo](anhDemo/Shop.png)
+tên bạn là gì
 ![Demo](anhDemo/EnterName.png)
-nhập tên
 ## Nguồn Tham Khảo
 ### sách SDL Game Development
+một cuốn sách giúp mình rất nhiều để tạo game này
 ![Demo](anhDemo/Book.png)
 ### youtube 
+giọng chú này hay
 let's make game : https://www.youtube.com/@CarlBirch
 
-video các anh chị bạn uet
+video các anh chị bạn uet, xem rất cuốn
 
 ## Ý tưởng
 
@@ -80,6 +79,8 @@ The adventure of robin
 
 Snake
 
-## Liên hệ
+## Lời kết
+Mình thấy game còn nhiều thiết sót, chưa đủ vui, chưa đủ đẹp , nhưng mà deadline phải nộp rồi.
 
+## Liên hệ
 Email: thuongthuong051103@gmail.com
