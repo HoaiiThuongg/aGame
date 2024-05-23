@@ -7,7 +7,8 @@
 2. [Demo](#demo)
 3. [Nguồn tham khảo](#nguồn-tham-khảo)
 4. [Ý tưởng](#ý-tưởng)
-5. [Liên hệ](#liên-hệ)
+5. [Lời kết](#lời-kết)
+6. [Liên hệ](#liên-hệ)
 
 ## Cài đặt
 
