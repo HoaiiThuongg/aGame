@@ -110,6 +110,7 @@ một cuốn sách giúp toy rất nhiều để tạo game này nha quý dị
 ### youtube 
 
 -let's make game : https://www.youtube.com/@CarlBirch (giọng chú này hay)
+-Phát triển phần mềm : https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ
 
 -video game khác
 
@@ -117,7 +118,7 @@ một cuốn sách giúp toy rất nhiều để tạo game này nha quý dị
 
 Game khủng long mất mạng
 
-The adventure of robin
+The adventure of robin (game của bạn nào đó mình thấy trên youtube)
 
 Snake
 
