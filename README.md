@@ -39,20 +39,38 @@ B6: chơi
 ![Demo](anhDemo/Menu.png)
 
 ### GameState
+![Demo](anhDemo/Space.png)
+dùng các nút mũi tên để di chuyển và space để bắn!
 
-dùng các nút mũi tên, space, nút 1,2
+![Demo](anhDemo/Dino.png)
+dùng các nút mũi tên để di chuyển
+
+![Demo](anhDemo/Snake.png)
+dùng các nút mũi tên để di chuyển
+
+![Demo](anhDemo/Boss.png)
+dùng các nút mũi tên để di chuyển và nút 1,2 để xuất chiêu
 
 ### Các chức năng khác
-
-điều chỉnh âm thanh, mua nhân vật, khám phá cốt chuyện
+![Demo](anhDemo/GameOver.png)
+state bạn sẽ thấy nhiều nhất
+![Demo](anhDemo/HuongDan.png)
+khỏi cần xem hướng dẫn vì mình hướng dẫn ở read me rồi
+![Demo](anhDemo/DieuTra.png)
+cốt chuyện chính, hơi xàm á, mình bịa để game hợp lý hơn
+![Demo](anhDemo/Music.png)
+chọn nhạc
+![Demo](anhDemo/Shop.png)
+shopping
+![Demo](anhDemo/EnterName.png)
+nhập tên
 ## Nguồn Tham Khảo
 ### sách SDL Game Development
-
+![Demo](anhDemo/Book.png)
 ### youtube 
 let's make game : https://www.youtube.com/@CarlBirch
 
 video các anh chị bạn uet
-
 
 ## Ý tưởng
 
