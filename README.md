@@ -36,8 +36,7 @@ B6: chơi
 ## Demo
 
 ### Menu
-![Uploading image.png…]()
-
+![Demo](anhDemo/Menu.png)
 
 ### GameState
 
