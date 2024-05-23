@@ -1,6 +1,6 @@
 
 # My Game
-Đây là một game đầu tiên của mình
+Đây là một game đầu tiên của mừn
 ## Mục lục
 
 1. [Cài đặt](#cài-đặt)
@@ -38,7 +38,7 @@ B6: chơi
 ## Demo
 
 ### Video
-Không hiểu sao video đăng lên nó bị mờ và màu nhạt hơn và hơi lag, mong các bạn thông cảm :<
+Không hiểu sao video đăng lên bị mờ và màu nhạt hơn và hơi lag, quý dị thông cảm
 
 https://drive.google.com/drive/folders/1Ep3WCZ3nCySOcL0Cm5dVoryzwBsZ4IR3?usp=drive_link
 
@@ -67,11 +67,11 @@ state bạn sẽ thấy nhiều nhất nếu chơi dở
 
 ![Demo](anhDemo/GameOver.png)
 
-khỏi cần xem hướng dẫn vì mình hướng dẫn ở read me rồi
+khỏi cần xem hướng dẫn vì hướng dẫn ở read me rồi
 
 ![Demo](anhDemo/HuongDan.png)
 
-cốt chuyện chính, hơi xàm á, mình bịa để game hợp lý hơn
+cốt chuyện chính, hơi xàm á, khỏi đọc
 
 ![Demo](anhDemo/DieuTra.png)
 
@@ -89,11 +89,11 @@ tên bạn là gì
 
 ## Đó là tính năng không phải lỗi
 
-Thì game của tui có một vài sơ xuất nhỏ sẽ sớm khắc phục:
+Thì game của tui có một vài sơ xuất nhỏ :
 
-- Game rắn không gióng hàng ,mình cố ý đấy, nhìn cũng hay mà , nhưng sẽ fix
+- Game rắn không gióng hàng ,is tính năng 
   
-- Con bạch tuộc to ở SpaceState lúc tăng tốc đôi khi bị giật, tính năng mò
+- Con bạch tuộc to ở SpaceState lúc tăng tốc đôi khi bị giật (đã fix , chưa up lại lên github)
   
 - Âm thanh lấy từ meme sound 
   
