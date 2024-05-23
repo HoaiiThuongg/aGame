@@ -97,21 +97,21 @@ Thì game của tui có một vài sơ xuất nhỏ :
   
 - Âm thanh lấy từ meme sound 
   
-- Hình ảnh chưa đủ xịn, mình cố gắng vẽ rồi , code thì ít vẽ thì nhiều
+- Hình ảnh chưa đủ xịn, toy cố gắng vẽ rồi , code thì ít vẽ thì nhiều
 
 - Game chưa thú vị , xin lỗi được chưa
 
 ## Nguồn Tham Khảo
 ### sách SDL Game Development
 
-một cuốn sách giúp mình rất nhiều để tạo game này
+một cuốn sách giúp toy rất nhiều để tạo game này nha quý dị
 
 ![Demo](anhDemo/Book.png)
 ### youtube 
 
 -let's make game : https://www.youtube.com/@CarlBirch (giọng chú này hay)
 
--video các anh chị bạn uet, xem rất cuốn
+-video game khác
 
 ## Ý tưởng
 
@@ -122,7 +122,8 @@ The adventure of robin
 Snake
 
 ## Lời kết
-Mình thấy game còn nhiều thiết sót, chưa đủ vui, chưa đủ đẹp , nhưng mà deadline phải nộp rồi.
+Mong bà nào có vô đây thì ủng hộ game này , trân trọng.
 
 ## Liên hệ
 Email: thuongthuong051103@gmail.com
+FB : https://www.facebook.com/hoaithuon.me
