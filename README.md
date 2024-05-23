@@ -1,6 +1,6 @@
 
 # My Game
-Đây là một game đầu tiên của mừn
+Đây là một game đầu tiên của mừn, project cuối khoá lập trình nâng cao 
 ## Mục lục
 
 1. [Cài đặt](#cài-đặt)
