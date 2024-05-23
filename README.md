@@ -110,7 +110,8 @@ một cuốn sách giúp toy rất nhiều để tạo game này nha quý dị
 ### youtube 
 
 -let's make game : https://www.youtube.com/@CarlBirch (giọng chú này hay)
--Phát triển phần mềm : https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ
+
+-Phát Triển Phần Mềm 123A-Z : https://www.youtube.com/c/Ph%C3%A1tTri%E1%BB%83nPh%E1%BA%A7nM%E1%BB%81m123AZ
 
 -video game khác
 
