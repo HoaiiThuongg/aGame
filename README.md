@@ -7,8 +7,9 @@
 2. [Demo](#demo)
 3. [Nguồn tham khảo](#nguồn-tham-khảo)
 4. [Ý tưởng](#ý-tưởng)
-5. [Lời kết](#lời-kết)
-6. [Liên hệ](#liên-hệ)
+5. [Đó là tính năng koong phải lỗi](#đó-là-lỗi)
+6. [Lời kết](#lời-kết)
+7. [Liên hệ](#liên-hệ)
 
 ## Cài đặt
 
@@ -35,6 +36,11 @@ https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wS
 B6: chơi
 
 ## Demo
+
+### Video
+Không hiểu sao video đăng lên nó bị mờ và màu nhạt hơn và hơi lag, mong các bạn thông cảm :<
+
+https://drive.google.com/drive/folders/1Ep3WCZ3nCySOcL0Cm5dVoryzwBsZ4IR3?usp=drive_link
 
 ### Menu
 ![Demo](anhDemo/Menu.png)
@@ -100,6 +106,20 @@ Game khủng long mất mạng
 The adventure of robin
 
 Snake
+
+## Đó là tính năng không phải lỗi
+
+Thì game của tui có một vài sơ xuất nhỏ sẽ sớm khắc phục:
+
+- Game rắn không gióng hàng , nhưng game hình biến thể thành người nên đi xiên xiên tí cũng hợp lý mò, mấy bạn OCD khum thích thì sau mình sẽ fix nha
+  
+- Con bạch tuộc to ở SpaceState lúc tăng tốc lâu lâu bị cà giật, nhìn giống tính năng nhưng mình biết lỗi ở đâu rồi nhưng mình thích để vậy cho nhìn đáng sợ hơn
+  
+- Âm thanh không được game lắm, do mình lười tìm sound nên mình lấy meme sound luôn
+  
+- Hình ảnh chưa đủ xịn, mình cố gắng vẽ rồi , code thì ít vẽ thì nhiều
+
+- Game chưa thú vị , xin lỗi được chưa
 
 ## Lời kết
 Mình thấy game còn nhiều thiết sót, chưa đủ vui, chưa đủ đẹp , nhưng mà deadline phải nộp rồi.
