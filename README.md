@@ -5,7 +5,7 @@
 
 1. [Cài đặt](#cài-đặt)
 2. [Demo](#demo)
-3. [Đó là tính năng không phải lỗi](#đó-là-lỗi)
+3. [Đó là tính năng không phải lỗi](#đó-là-tính-năng-không-phải-lỗi)
 4. [Nguồn tham khảo](#nguồn-tham-khảo)
 5. [Ý tưởng](#ý-tưởng)
 6. [Lời kết](#lời-kết)
