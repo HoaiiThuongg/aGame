@@ -5,9 +5,9 @@
 
 1. [Cài đặt](#cài-đặt)
 2. [Demo](#demo)
-3. [Nguồn tham khảo](#nguồn-tham-khảo)
-4. [Ý tưởng](#ý-tưởng)
-5. [Đó là tính năng koong phải lỗi](#đó-là-lỗi)
+3. [Đó là tính năng không phải lỗi](#đó-là-lỗi)
+4. [Nguồn tham khảo](#nguồn-tham-khảo)
+5. [Ý tưởng](#ý-tưởng)
 6. [Lời kết](#lời-kết)
 7. [Liên hệ](#liên-hệ)
 
@@ -87,6 +87,20 @@ tên bạn là gì
 
 ![Demo](anhDemo/EnterName.png)
 
+## Đó là tính năng không phải lỗi
+
+Thì game của tui có một vài sơ xuất nhỏ sẽ sớm khắc phục:
+
+- Game rắn không gióng hàng ,mình cố ý đấy, nhìn cũng hay mà , nhưng sẽ fix
+  
+- Con bạch tuộc to ở SpaceState lúc tăng tốc đôi khi bị giật, tính năng mò
+  
+- Âm thanh lấy từ meme sound 
+  
+- Hình ảnh chưa đủ xịn, mình cố gắng vẽ rồi , code thì ít vẽ thì nhiều
+
+- Game chưa thú vị , xin lỗi được chưa
+
 ## Nguồn Tham Khảo
 ### sách SDL Game Development
 
@@ -106,20 +120,6 @@ Game khủng long mất mạng
 The adventure of robin
 
 Snake
-
-## Đó là tính năng không phải lỗi
-
-Thì game của tui có một vài sơ xuất nhỏ sẽ sớm khắc phục:
-
-- Game rắn không gióng hàng , nhưng game hình biến thể thành người nên đi xiên xiên tí cũng hợp lý mò, mấy bạn OCD khum thích thì sau mình sẽ fix nha
-  
-- Con bạch tuộc to ở SpaceState lúc tăng tốc lâu lâu bị cà giật, nhìn giống tính năng nhưng mình biết lỗi ở đâu rồi nhưng mình thích để vậy cho nhìn đáng sợ hơn
-  
-- Âm thanh không được game lắm, do mình lười tìm sound nên mình lấy meme sound luôn
-  
-- Hình ảnh chưa đủ xịn, mình cố gắng vẽ rồi , code thì ít vẽ thì nhiều
-
-- Game chưa thú vị , xin lỗi được chưa
 
 ## Lời kết
 Mình thấy game còn nhiều thiết sót, chưa đủ vui, chưa đủ đẹp , nhưng mà deadline phải nộp rồi.
