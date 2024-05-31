@@ -38,7 +38,7 @@ B6: chơi
 ## Demo
 
 ### Video
-Vid bị mờ và lag á
+Vid bị mờ và lag á, 4 game liên quan tới nhau he, nma cốt chuyện xàm xàm ngại kệ :(.
 
 https://drive.google.com/drive/folders/1Ep3WCZ3nCySOcL0Cm5dVoryzwBsZ4IR3?usp=drive_link
 
